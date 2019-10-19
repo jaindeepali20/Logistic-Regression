@@ -1,0 +1,2 @@
+# Logistic-Regression
+This project performs classification using machine learning. It aims at the implementation of Linear Regression and Logistic Regression from the basic level. The dataset used is Wisconsin Diagnostic Breast Cancer (wdbc.dataset). Fine-needle aspiration (FNA) is a diagnostic procedure used to investigate lumps or masses. We use FNA to classify cells of breast mass as Benign (class 0) or Malignant (class 1) using logistic regression as the classifier. 
